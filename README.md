@@ -34,38 +34,6 @@ Bibliotheca Confluxor is an advanced library management system developed using P
 - **Backend:** SQLite for seamless and lightweight data management.
 - **Programming Language:** Python for its simplicity, versatility, and robustness.
 
-## Installation and Usage
-
-### Prerequisites
-Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/).
-
-### Clone the Repository
-```bash
-git clone https://github.com/yourusername/BibliothecaConfluxor.git
-```
-
-### Navigate to the Project Directory
-```bash
-cd BibliothecaConfluxor
-```
-
-### Install Dependencies
-Install the required dependencies using pip:
-```bash
-pip install -r requirements.txt
-```
-
-### Initialize the Database
-Run the script to initialize the database:
-```bash
-python init_db.py
-```
-
-### Run the Application
-Start the application with the following command:
-```bash
-python library_management.py
-```
 
 ## How to Use
 
@@ -104,7 +72,7 @@ Click on "Wallet" to view all financial transactions and withdraw funds from the
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. 
 
 ---
 
